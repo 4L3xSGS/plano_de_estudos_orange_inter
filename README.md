@@ -23,3 +23,24 @@ Criando um plano de estudo simplificado para quem gosta de iniciar na programaç
 - [ ] Curso de [Construindo páginas para internet com Bootstrap](https://web.dio.me/course/crie-paginas-responsivas-na-web-utilizando-um-poderoso-framework/learning/d5695916-44d4-4d47-9db4-0bc829264835)
 - [ ] Curso de [Introdução ao JavaScript](https://web.dio.me/course/introducao-ao-javascript/learning/ecf563b8-92b8-4061-95f3-66e32b1014cf)
 - [ ] Curso de [Resolvendo Desafios de Código em Javascript](https://web.dio.me/course/resolvendo-desafios-de-codigo-em-javascript/learning/d71feeb5-8827-4cea-8625-35674c11d873)
+
+
+## Tasks para maximizar o aprendizado:
+- [X] Começar a estudar FrontEnd
+- [ ] Assista ao curso
+- [ ] Faça anotações
+- [ ] Faça os projetos sozinho
+- [ ] Tire as dúvidas
+
+
+
+- [Formatação básica - Site oficial Github](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#paragraphs)
+
+- [Formatação avançada - Site oficial Github](https://docs.github.com/pt/get-started/writing-on-github/working-with-advanced-formatting)
+
+- [Listagem de cursos da Plataforma DIO - HTML, CSS, JS e React](https://web.dio.me/play?skill=9e186e72-ffe6-4990-9324-a55cd69f7d5a&skill=af94e086-72224626-bf21-b7d8ebecdbfd&skill=ba551fa6-c9bb-4785-9830-812eb389c3c2&skill=91244518-6803-41e2-a974-5f2f00cb4a38&tab=cursos)
+
+
+
+
+
